@@ -8,4 +8,4 @@ Frontend Web Developer
 * ✉️  You can contact me at [chungle924@gmail.com](mailto:chungle924@gmail.com)
 * 🧠  I'm learning Backend Side
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chungle29)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lechung29)](https://github.com/anuraghazra/github-readme-stats)
