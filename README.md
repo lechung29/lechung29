@@ -9,3 +9,5 @@ Frontend Web Developer
 * 🧠  I'm learning Backend Side
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lechung29)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lechung29&theme=radical&show_icons=true)
