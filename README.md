@@ -7,7 +7,6 @@ Frontend Web Developer
 * 🌍  I'm based in Viet Nam
 * ✉️  You can contact me at [chungle924@gmail.com](mailto:chungle924@gmail.com)
 * 🧠  I'm learning Backend Side
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lechung29)](https://github.com/anuraghazra/github-readme-stats)
-
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lechung29&theme=radical&show_icons=true)
+
+  http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={lechung29}&theme={radical}&exclude={exclude}
